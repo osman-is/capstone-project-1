@@ -38,6 +38,6 @@ elif financial_calculator == "bond":                  # if the user enters bond 
 
 
 else:
-    len(financial_calculator) == 0                                          # This part of the program will be invoked if the doesn't type anything 
+    len(financial_calculator) == 0                                          # This part of the program will be invoked if the user doesn't type anything 
     print("You have not entered anything, this program will not run!  ")
 
